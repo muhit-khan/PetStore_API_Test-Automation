@@ -1,0 +1,4 @@
+npm install newman-reporter-html
+
+
+newman run collections/Swagger\ PetStore_MK.postman_collection.json -r html
